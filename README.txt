@@ -26,3 +26,7 @@ SWEA Session Keeper
 주의
 - SWEA 서버가 absolute timeout(로그인 후 일정 시간이 지나면 무조건 만료)을 사용하면 이 확장 프로그램으로 막을 수 없습니다.
 - 사이트 정책이나 세션 처리 방식이 변경되면 동작하지 않을 수 있습니다.
+
+## 다른 PC·웹에서 이어하기
+
+새 PC 설정과 Git 미포함 파일 복원은 RESTART.md, 현재 작업 인계는 HANDOFF.md를 확인한다.
